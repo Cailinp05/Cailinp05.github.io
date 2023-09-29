@@ -1,0 +1,251 @@
+Cailin Nivene Pillay - personal portfolio
+
+# HEDER
+
+Cailin Nivene Pillay.
+
+En
+Ar
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home.
+About.
+Skills.
+Portfolio.
+Contact.
+
+
+
+# HERO
+
+alt = Me with a happy expression
+
+We Design & Build Creative Products
+
+Get in touch
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+3+
+Years of Experience
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+2+
+Completed Projects
+
+alt = Peoples rating icon
+
+# ABOUT
+
+alt = Me with a thinking expression
+
+About me
+
+Welcome to my personal corner of the digital universe! I'm thrilled to have you here. My name is Cailin Nivene Pillay, and I'm a passionate data enthusiast on a relentless quest for knowledge and insights.
+
+With a background in Biodiversity and Conservation Biology and Data Analysis, I have embarked on a captivating journey into the world of data science and analytics. From unraveling complex datasets to crafting data-driven stories, I find solace and excitement in the magic of numbers and patterns.
+
+Throughout my professional journey, I've honed my skills in [Skills or Tools], allowing me to transform raw data into valuable and actionable information. But this is just the beginning of my data-driven odyssey.
+
+My personal website is not only a repository of my data-driven adventures but also a testament to my commitment to continuous learning and growth. I invite you to join me as I share my projects, insights, and discoveries, aiming to inspire and connect with like-minded data enthusiasts and industry professionals.
+
+Together, let's embark on this thrilling voyage of data exploration, turning information into knowledge and empowering positive change. Whether you're a fellow data aficionado, a potential collaborator, or simply curious about the wonders of data, I'm excited to share this journey with you.
+
+Thank you for being a part of this adventure. Let's dive into the realm of data science and analytics together!
+
+Download cv
+
+
+# SKILLS
+
+My skills
+
+What My Programming Skills Included?
+
+I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+JavaScript
+alt = JavaScript logo
+
+TypeScript
+alt = TypeScript logo
+
+jQuery
+alt = jQuery logo
+
+Bootstrap
+alt = Bootstrap logo
+
+Angular
+alt = Angular logo
+
+React
+alt = React logo
+
+Vue
+alt = Vue logo
+
+Firebase
+alt = Firebase logo
+
+PugJs
+alt = PugJs logo
+
+SASS
+alt = SASS logo
+
+
+Ajax
+alt = Ajax logo
+
+Gulp
+alt = Gulp logo
+
+Webpack
+alt = Webpack logo
+
+Git
+alt = Git logo
+
+Npm
+alt = Npm logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+Trello
+alt = Trello logo
+
+ClickUp
+alt = ClickUp logo
+
+Slack
+alt = Slack logo
+
+Photoshop
+alt = Photoshop logo
+
+Adobe XD
+alt = Adobe XD logo
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+Welcome to my data-driven portfolio, where I showcase my passion for data science and analytics through an array of captivating projects. Each endeavor is a testament to my curiosity, dedication, and commitment to leveraging the power of data to drive insights and innovation.
+
+### Project 1: [My Personal Website]
+
+Description: In this project, I delved into creating and designing my personal website, leveraging R programming language to uncover valuable insights. The outcomes of this exploration shed light on my ability to start something for you to look at now.
+Skills/Tools: R programming language 
+
+https://Cailinp05.github.io
+
+### Project 2: [Capstone Bellabeat Case Study]
+
+Description: A deep dive into the [Capstone Bellabeat Case Study], where I employed tools and techniques from the Professional Google Data Analyst Certificate on Coursera to extract meaningful patterns and trends in aid of a marketing strategy. The results provided vital information on how users use smart devices.The purpose or aim of this case study is to produce valuable insights in order to make data-driven business decisions for Bellabeat's marketing strategy using trends found within the smart products data.
+
+The data includes multiple datasets focused on their activity, sleep, stress, and reproductive health. This data helps people make better, smarter, and healthier decisions which ultimately can improve their lifestyle.
+Skills/Tools: R, Rmarkdown, Excel, and SQL. 
+
+https://github.com/Cailinp05/Capstone_Bellabeat_Case_Study
+
+
+My data-driven journey is ever-evolving, and this portfolio serves as a living testament to my growth and dedication. I believe in the power of data to transform industries, solve complex challenges, and empower decision-making.
+
+Each project represents a valuable chapter in my data story, and I invite you to explore, engage, and be inspired. Together, let's unleash the potential of data and forge a future where insights drive positive change.
+
+If you're interested in collaborating, have questions, or simply want to share your thoughts, don't hesitate to get in touch. Thank you for joining me on this data expedition!
+
+alt = A macintosh on a yellow background.
+Lorem Ipsum Dolor 01
+April 2022
+
+alt = On a Blue background, a Wacom and a mouse.
+Lorem Ipsum Dolor 02
+
+alt = A Cassette tape on a mellow apricot background.
+Lorem Ipsum Dolor 03
+
+alt = Blue digital watch on a dark liver background.
+Lorem Ipsum Dolor 04
+
+alt = On a dark liver background, Airport luggage car carrying a luggage.
+Lorem Ipsum Dolor 05
+
+alt = On a yellow background, a digital watch and a glass.
+Lorem Ipsum Dolor 06
+
+alt = A fujifilm instant camera on a dark electric blue background.
+Lorem Ipsum Dolor 07
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Interested in collaborating or learning more about my work? Feel free to reach out to me through the provided contact information. I'm open to exciting opportunities and look forward to connecting with like-minded individuals in the data community.
+
+Let's connect and stay in touch! Follow me on LinkedIn, GitHub, and Instagram for updates on my projects, insights, and data-driven adventures.
+
+[![Email](email-icon.png)](mailto:cailinp05@gmail.com){ width=50px height=50px } [![LinkedIn](linkedin-icon.png)](https://www.linkedin.com/in/cailin-pillay-122092152/){ width=50px height=50px } [![GitHub](github-icon.png)](https://github.com/Cailinp05){ width=50px height=50px } [![Instagram](instagram-icon.png)](https://www.instagram.com/cailin_nivene_pillay/?hl=en){ width=50px height=50px }
+
+Feel free to contact me using on the following links:
+
+- Email: cailinp05@gmail.com
+- Linkein: https://www.linkedin.com/in/cailin-pillay-122092152/
+- Github: https://github.com/Cailinp05 
+- Instagram: https://www.instagram.com/cailin_nivene_pillay/?hl=en
+
+
+Thank you for visiting my website! I hope you find inspiration and excitement in exploring the world of data science and analytics with me. Together, we can unlock the power of data to drive positive change and innovation.
+
+
+# FOOTER
+
+Cailin Nivene Pillay.
+
+&copy; 2023 @CailinNivenePillay. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
